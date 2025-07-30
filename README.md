@@ -91,7 +91,7 @@ The application uses a relational database with the following structure:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/cooking-recipe-app.git
+   git clone https://github.com/Datta_l_/Recipe-finder-pro.git
    cd cooking-recipe-app
    ```
 
@@ -111,7 +111,7 @@ The application uses a relational database with the following structure:
    ```
 
 5. **Access the application**:
-   - Open `index.html` in your browser  
+   - Open `1.html` in your browser  
    - Or access via a local server if configured  
 
 ---
@@ -128,21 +128,10 @@ The application uses a relational database with the following structure:
 
 ---
 
-## 🖼️ Frontend Structure
-
-```
-frontend/
-├── style.css  
-├── app.js  
-├── images/
-├── 1.html
-
-```
-
----
 
 
-## 🤝 Contributing
+
+
 
 Contributions are welcome! Here's how you can help:
 

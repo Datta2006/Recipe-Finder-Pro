@@ -1,17 +1,5 @@
 # 🍲 Cooking Recipe App
 
-## 📑 Table of Contents
-
-- [Project Description](#project-description)  
-- [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Database Schema](#database-schema)  
-- [Installation](#installation)  
-- [API Endpoints](#api-endpoints)  
-- [Frontend Structure](#frontend-structure)  
- 
-
----
 
 ## 📘 Project Description
 

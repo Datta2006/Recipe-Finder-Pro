@@ -145,13 +145,6 @@ frontend/
 
 ---
 
-## 📷 Screenshots
-
-- ![Screenshot 1](https://i.imgur.com/example1.png)  
-- ![Screenshot 2](https://i.imgur.com/example2.png)  
-- ![Screenshot 3](https://i.imgur.com/example3.png)  
-
----
 
 ## 🤝 Contributing
 
@@ -172,17 +165,4 @@ Contributions are welcome! Here's how you can help:
    ```
 5. **Create a new Pull Request**
 
----
 
-## 📝 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Developed By
-
-**[Your Name]**  
-As part of *[Your Course/Program Name]*  
-[Your University/School Name]  
-📧 [Your Email]

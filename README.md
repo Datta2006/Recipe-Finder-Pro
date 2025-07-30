@@ -9,9 +9,7 @@
 - [Installation](#installation)  
 - [API Endpoints](#api-endpoints)  
 - [Frontend Structure](#frontend-structure)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)  
+ 
 
 ---
 
@@ -134,13 +132,11 @@ The application uses a relational database with the following structure:
 
 ```
 frontend/
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
+├── style.css  
+├── app.js  
 ├── images/
-├── index.html
-└── recipe-details.html
+├── 1.html
+
 ```
 
 ---

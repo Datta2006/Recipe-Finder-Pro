@@ -1,7 +1,7 @@
-# 🍲 Cooking Recipe App
+# Cooking Recipe App
 
 
-## 📘 Project Description
+## Project Description
 
 The **Cooking Recipe App** is a full-stack web application developed as a student project to manage and explore cooking recipes. Users can browse recipes, search by ingredients, view detailed cooking instructions, and add new recipes to the database.
 
@@ -16,20 +16,20 @@ Here is the Demo https://drive.google.com/file/d/1D4tJm-52pRpXgYYBMY3fljUfkihTPq
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔧 Recipe Management
+### Recipe Management
 
 - Add new recipes with ingredients and step-by-step instructions  
 - View all available recipes  
 - Get detailed recipe information including cooking steps and required ingredients  
 
-### 🔍 Smart Search
+### Smart Search
 
 - Search recipes by ingredients (exact or partial matches)  
 - Filter recipes by difficulty level and dietary preference (vegetarian/non-vegetarian)  
 
-### 🖥️ User-Friendly Interface
+### User-Friendly Interface
 
 - Clean, intuitive design  
 - Responsive layout that works on different devices  
@@ -37,9 +37,9 @@ Here is the Demo https://drive.google.com/file/d/1D4tJm-52pRpXgYYBMY3fljUfkihTPq
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-### 🔙 Backend
+### Backend
 
 - **Node.js** – JavaScript runtime environment  
 - **Express.js** – Web application framework  
@@ -47,7 +47,7 @@ Here is the Demo https://drive.google.com/file/d/1D4tJm-52pRpXgYYBMY3fljUfkihTPq
 - **mysql2/promise** – MySQL client with promise support  
 - **CORS** – Cross-Origin Resource Sharing middleware  
 
-### 🔜 Frontend
+### Frontend
 
 - **HTML5** – Markup language  
 - **CSS3** – Styling  
@@ -56,7 +56,7 @@ Here is the Demo https://drive.google.com/file/d/1D4tJm-52pRpXgYYBMY3fljUfkihTPq
 
 ---
 
-## 🗃️ Database Schema
+## Database Schema
 
 The application uses a relational database with the following structure:
 
@@ -69,15 +69,15 @@ The application uses a relational database with the following structure:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Node.js (v14 or higher)  
 - MySQL Server  
 - Git (optional)  
 
-### 🧾 Setup Instructions
+### Setup Instructions
 
 1. **Clone the repository**:
    ```bash
